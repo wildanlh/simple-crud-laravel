@@ -10,7 +10,7 @@
 
 <body>
     <div class=" h-screen flex justify-center items-center">
-        <div class="container mx-auto px-96">
+        <div class="container mx-auto lg:px-96">
             <div class="shadow-lg p-10 rounded">
                 <div class="flex justify-between mb-5">
                     <a href="/" class="relative hover:text-[#007AFF] hover:duration-300 hover:ease-in-out before:absolute before:left-0 before:bottom-0 before:-z-10 before:h-0.5 before:w-full before:origin-top-left before:scale-x-0 before:bg-[#007AFF] before:transition-transform before:duration-300 before:content-['']  before:hover:scale-x-100">Beranda</a>
